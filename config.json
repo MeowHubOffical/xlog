@@ -2,7 +2,6 @@
     "title":"XiaoleMeow's xlog",
     "subTitle":"记录简单生活中的不简单",
     "avatarUrl":"https://github.githubassets.com/favicons/favicon.svg",
-    "GMEEK_VERSION":"last"
     "email":"meowhub@icloud.com",
     "onePageListNum":15,
     "startSite":"02/14/2024",
@@ -10,4 +9,6 @@
     "urlMode":"pinyin",
     "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
     "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
+    "GMEEK_VERSION":"last"
+
 }
