@@ -5,6 +5,8 @@
     "GMEEK_VERSION":"last",
     "email":"meowhub@icloud.com",
     "startSite":"02/14/2024",
+    "singlePage":["about", "link"],
     "urlMode":"pinyin",
-    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>"
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
 }
